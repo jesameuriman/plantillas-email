@@ -1,13 +1,13 @@
-### Características
-
-- Plantilla1 Plantilla de bienvenida, contiene 4 ramas;
-- Plantilla2 Plantilla de saludo, contiene 9 ramas;
-
 # Plantillas para email marketing
 
 ![](https://as2.ftcdn.net/v2/jpg/03/34/92/47/1000_F_334924717_Hk6SlTDXeQu9KJQAIU97fV8XzRg14cXC.jpg)
 
-**Tabla de Contenido**
+## Características
+
+- Plantilla1 Plantilla de bienvenida, contiene 4 ramas;
+- Plantilla2 Plantilla de saludo, contiene 9 ramas;
+
+## Tabla de Contenido
 1. [Plantillas](#id1)
 2. [Ramas](#id2)
 3. [Estructura](#id3)
