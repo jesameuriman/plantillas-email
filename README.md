@@ -1,5 +1,5 @@
 - Plantilla1 Plantilla de bienvenida, contiene 4 ramas;
-- Plantilla2 Plantilla de saludo, contiene 8 ramas;
+- Plantilla2 Plantilla de saludo, contiene 9 ramas;
 
 # Plantillas para email marketing
 
