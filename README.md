@@ -1,7 +1,7 @@
 - Plantilla1 Plantilla de bienvenida, contiene 5 ramas;
 - Plantilla2 Plantilla de saludo, contiene 8 ramas;
 
-# Plantillas para email marketing.md
+# Plantillas para email marketing
 
 ![](https://as2.ftcdn.net/v2/jpg/03/34/92/47/1000_F_334924717_Hk6SlTDXeQu9KJQAIU97fV8XzRg14cXC.jpg)
 
@@ -20,7 +20,7 @@
 5. [Final](#id12)
 
 <div id='id1' />
-##Plantillas
+## Plantillas
 aqui se esplica que son dos 
 + la plantilla 1 contiene cambios en
 + la plantilla 2 contiene cambios en
