@@ -1,4 +1,4 @@
-- Plantilla1 Plantilla de bienvenida, contiene 5 ramas;
+- Plantilla1 Plantilla de bienvenida, contiene 4 ramas;
 - Plantilla2 Plantilla de saludo, contiene 8 ramas;
 
 # Plantillas para email marketing
@@ -11,13 +11,13 @@
 3. [Estructura](#id3)
 4. [Contenido](#id4)
 5. [Estilos](#id5)
-5. [Estilos-layout](#id6)
-5. [Estilos-graficos](#id7)
-5. [Media-queries](#id8)
-5. [Hide-resize](#id9)
-5. [Web-fonts](#id10)
-5. [Condicionales](#id11)
-5. [Final](#id12)
+6. [Estilos-layout](#id6)
+7. [Estilos-graficos](#id7)
+8. [Media-queries](#id8)
+9. [Hide-resize](#id9)
+10. [Web-fonts](#id10)
+11. [Condicionales](#id11)
+12. [Final](#id12)
 
 <div id='id1' />
 ## Plantillas
