@@ -22,32 +22,57 @@
 12. [Final](#id12)
 
 <div id='id1' />
+
 ## Plantillas
+
 aqui se esplica que son dos 
 + la plantilla 1 contiene cambios en
 + la plantilla 2 contiene cambios en
 
 Las ramas son:
+
 <div id='id2' />
-##Ramas
+
+## Ramas
+
 aqui se menciona las ramas
+
 <div id='id3' />
-###1. Estructura
+
+### 1. Estructura
+
 <div id='id4' />
-###2. Contenido
+
+### 2. Contenido
+
 <div id='id5' />
-###3. Estilos
+
+### 3. Estilos
+
 <div id='id6' />
-###4. Estilos-layout
+
+### 4. Estilos-layout
+
 <div id='id7' />
-###5. Estilos-graficos
+
+### 5. Estilos-graficos
+
 <div id='id8' />
-###6. Media-queries
+
+### 6. Media-queries
+
 <div id='id9' />
-###7. Hide-resize
+
+### 7. Hide-resize
+
 <div id='id10' />
-###8. Web-fonts
+
+### 8. Web-fonts
+
 <div id='id11' />
-###9. Condicionales
+
+### 9. Condicionales
+
 <div id='id12' />
-###10. Final
+
+### 10. Final
